@@ -1,0 +1,8 @@
+body {
+    background-color: #8ACE00;
+}
+hr {
+  height: 0; 
+  border: 0; 
+  border-top: 1px solid black; 
+}
