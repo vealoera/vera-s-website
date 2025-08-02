@@ -58,6 +58,13 @@ hr {
   position: relative;
   width: 400px;
 }
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
 .image__img {
   display: block;
   width: 100%;
@@ -98,6 +105,7 @@ hr {
 .image__description {
   font-size: 1.2em;
   margin-top: 0.25em;
+  text-align: center;
 }
 .timeline {
   position: relative;
