@@ -1,3 +1,5 @@
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+
 hey everyone! my name is vera and since brat summer is upon us, i decided to make a personal brat-themed website (called vera's website) using html, css, and js as my first project, to share and document them! in this website, you can read more about my interests -- some cool things i've added consist of a navigation bar, 3d model, photo gallery, timeline, favicon, some songs here and there, and more! please feel free to connect with me on my socials if you'd like :D (in the website!)
 
 some things i've learned were how to format using css (transitions, colours), and also how to search for online resources to use as reference (websites, youtube videos)! i kinda struggled with formatting my code and oftentimes got a bit lost in it, something i hope to improve for my next project :)
